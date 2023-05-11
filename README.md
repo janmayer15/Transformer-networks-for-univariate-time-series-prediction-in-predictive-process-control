@@ -1,0 +1,2 @@
+# Transformer-networks-for-univariate-time-series-prediction-in-predictive-process-control
+This study evaluated a transformer network for time series forecasting in process control, finding accurate predictions of process quality, emphasizing the importance of predictive control for cost reduction and process enhancement, with a need for understanding and continuous improvement in implementing forecasting applications in production.
